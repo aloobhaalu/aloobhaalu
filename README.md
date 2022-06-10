@@ -1,8 +1,8 @@
 ### Hi there👋
 
-<!--
- Hello! I'm Aloo, an aspiring 17 year old human with love for programming and self taught knowledge about it.
-
+Hello! I'm Aloo, an aspiring 17 year old human with love for programming and self taught knowledge about it.
+ 
+<!--= 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
